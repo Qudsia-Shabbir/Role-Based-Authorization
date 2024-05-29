@@ -1,8 +1,6 @@
-# React + Vite
+This project is a role-based authentication system built using ReactJS and React Router. It demonstrates how to implement authentication and authorization for different user roles within a React application. The system includes role-specific access controls, allowing only authorized users to view certain routes and components. It leverages modern React practices, including hooks, to manage authentication state and route protection efficiently.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Key Features:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Role-based access control
+Protected routes with React Router
